@@ -49,3 +49,5 @@ while True :
     volt_0 = val_0 * f
     print("Analog0: {0:d}\t{1:.3f}V".format(val_0, volt_0))
     time.sleep(1)
+
+
